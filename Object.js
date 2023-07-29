@@ -8,3 +8,5 @@ let name;
 name = restaurant.name;
 let favoriteDrink;
 favoriteDrink= restaurant["favorite drink"];
+delete restaurant["favorite drink"];
+console.log(restaurant);
