@@ -1,0 +1,19 @@
+{
+  "name": "javascriptbeginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minsa111/JavaScriptBeginner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minsa111/JavaScriptBeginner/issues"
+  },
+  "homepage": "https://github.com/Minsa111/JavaScriptBeginner#readme"
+}
